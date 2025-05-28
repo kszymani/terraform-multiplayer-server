@@ -1,0 +1,6 @@
+*.env
+arclight
+paper
+keys
+.terraform*
+*.tfstate*
